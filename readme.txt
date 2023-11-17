@@ -1,6 +1,6 @@
 === Prime Factorization Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: prime factorization calculator, integer factor tree, prime number identification, composite number decomposition, prime factor algorithms, trial division method, prime decomposition, factor tree creation, natural number factorization, basic prime factorization
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
