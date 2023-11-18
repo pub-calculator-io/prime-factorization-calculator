@@ -1,4 +1,4 @@
-# Prime Factorization Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Prime Factorization Calculator Widget for WordPress
 
 The prime factorization calculator finds a number's prime factors. The calculator demonstrates the prime factors tree and all factors of the number. 
 
