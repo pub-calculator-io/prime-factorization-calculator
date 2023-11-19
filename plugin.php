@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Prime Factorization Calculator by www.calculator.io
+Plugin Name: CI Prime factorization calculator
 Plugin URI: https://www.calculator.io/prime-factorization-calculator/
 Description: The prime factorization calculator finds a number's prime factors. The calculator demonstrates the prime factors tree and all factors of the number. 
 Version: 1.0.0
