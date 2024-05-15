@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Prime Factoriza
 == Screenshots ==
 
 1. The Prime Factorization Calculator Input Form.
-2. The Prime Factorization Calculator Calculation Results.
 
 == Installation ==
 

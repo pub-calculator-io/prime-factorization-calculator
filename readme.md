@@ -3,7 +3,6 @@
 The prime factorization calculator finds a number's prime factors. The calculator demonstrates the prime factors tree and all factors of the number. 
 
 ![Prime Factorization Calculator Input Form](/assets/images/screenshot-1.png "Prime Factorization Calculator Input Form")
-![Prime Factorization Calculator Calculation Results](/assets/images/screenshot-2.png "Prime Factorization Calculator Calculation Results")
 
 ## Installation
 
